@@ -11,6 +11,6 @@
 
 실습자료 다운로드
 
-- ICT사업단-데이터분석(0.부록-파이썬 병아리반) (https://www.dropbox.com/s/bpdofzac2toav9y/ICT%EC%82%AC%EC%97%85%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%280.%EB%B6%80%EB%A1%9D-%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B3%91%EC%95%84%EB%A6%AC%EB%B0%98%29.ipynb?dl=0)
+- [ICT사업단-데이터분석(0.부록-파이썬 병아리반)](https://www.dropbox.com/s/bpdofzac2toav9y/ICT%EC%82%AC%EC%97%85%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%280.%EB%B6%80%EB%A1%9D-%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B3%91%EC%95%84%EB%A6%AC%EB%B0%98%29.ipynb?dl=0)
 
 
