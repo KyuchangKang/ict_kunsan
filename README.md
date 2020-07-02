@@ -15,7 +15,7 @@
 
 - [ICT사업단-데이터분석(1.기온 공공데이터)](https://www.dropbox.com/s/khdm5qg4asg3qug/ICT%EC%82%AC%EC%97%85%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%281.%EA%B8%B0%EC%98%A8%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%29.ipynb?dl=0)
 
-- ICT사업단-데이터분석(2.데이터 시각화 기초)
+- [ICT사업단-데이터분석(2.데이터 시각화 기초)](https://www.dropbox.com/s/rjl4wqvtm0aq8zp/ICT%EC%82%AC%EC%97%85%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%282.%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B8%B0%EC%B4%88%29.ipynb?dl=0)
 
 - ICT사업단-데이터분석(3.인구 공공데이터)
 
