@@ -13,7 +13,7 @@
 
 - [ICT사업단-데이터분석(0.부록-파이썬 병아리반)](https://www.dropbox.com/s/zgjpj5r2go45thd/ICT%EC%82%AC%EC%97%85%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%280.%EB%B6%80%EB%A1%9D-%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B3%91%EC%95%84%EB%A6%AC%EB%B0%98%29%20-%20Jupyter%20Notebook.pdf?dl=0)
 
-[ipynb] (https://www.dropbox.com/s/zgjpj5r2go45thd/ICT%EC%82%AC%EC%97%85%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%280.%EB%B6%80%EB%A1%9D-%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B3%91%EC%95%84%EB%A6%AC%EB%B0%98%29%20-%20Jupyter%20Notebook.pdf?dl=0)
+[ipynb] (https://www.dropbox.com/s/kg006btkobiizfo/ICT%EC%82%AC%EC%97%85%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%280.%EB%B6%80%EB%A1%9D-%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B3%91%EC%95%84%EB%A6%AC%EB%B0%98%29.ipynb?dl=0)
 
 - [ICT사업단-데이터분석(1.기온 공공데이터)](https://www.dropbox.com/s/at7j68k2xd89vdi/ICT%EC%82%AC%EC%97%85%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%281.%EA%B8%B0%EC%98%A8%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%29%20-%20Jupyter%20Notebook.pdf?dl=0)
 
